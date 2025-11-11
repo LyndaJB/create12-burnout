@@ -5,3 +5,4 @@ unanswered:
 
 answered:
   user: bob
+  answered_at: <%= 1.day.ago %>
