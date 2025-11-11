@@ -7,4 +7,241 @@
 - id: 3
   category: 'physical'
   text: 'I sleep well & feel rested upon waking'
-  
+- id:	4	
+  Category:	'Physical'	
+  SubCategory:	'Sleep and Rest'	
+  Text:	'How often do you find it difficult to fall asleep or stay asleep (insomnia)?'																								
+- id:	5	
+  Category: '	Physical'	 
+  SubCategory: 'Sleep and Rest'
+  Text: 'Do you wake up feeling unrested even after a full night sleep?'
+- id:	6	
+  Category: 'Physical'	
+  SubCategory: 'Sleep and Rest'	 
+  Text: 'Have you noticed a significant change (increase or decrease) in the amount of sleep you typically need?'				
+- id:	7	
+  Category: 'Physical'	
+  SubCategory: 'Sleep and Rest'	 
+  Text: 'Do you frequently feel tired or fatigued during the day?'
+- id:	8	
+  Category: 'Physical'	
+  SubCategory: 'General'	 
+  Text: 'In the past month, how often have you experienced headaches or migraines?'
+- id:	9	
+  Category: 'Physical'	
+  SubCategory: 'General'	 
+  Text: 'How frequently do you experience muscle tension, aches, or joint pain?'
+- id:	10	
+  Category: 'Physical'	
+  SubCategory: 'General'	 
+  Text: 'Have you noticed an increase in stomach issues (e.g., indigestion, nausea, or changes in appetite/weight)?'
+- id:	11	
+  Category: 'Physical'	
+  SubCategory: 'General'	 
+  Text: 'How often do you feel like you are catching colds or getting sick (indicating a weakened immune system)?'
+- id:	12	
+  Category: 'Physical'	
+  SubCategory: 'Energy and Vitality'	 
+  Text: 'How often do you feel a persistent lack of physical energy (exhaustion)?'
+- id:	13	
+  Category: 'Physical'	
+  SubCategory: 'Energy and Vitality'	 
+  Text: 'To what extent has your interest in physical activities or exercise decreased?'
+- id:	14	
+  Category: 'Physical'	
+  SubCategory: 'Energy and Vitality'	 
+  Text: 'Do you often feel physically drained after a typical workday?'
+- id:	15	
+  Category: 'Physical'	
+  SubCategory: 'Existing Conditions'	
+  Text: 'Have any existing chronic health conditions (e.g., high blood pressure, diabetes) worsened recently?'
+- id:	16	
+  Category: 'Emotional'	
+  SubCategory: 'Well Being'	 
+  Text: 'How often do you feel overwhelmed by your responsibilities?'
+- id:	17	
+  Category: 'Emotional'	
+  SubCategory: 'Well Being'	 
+  Text: 'Do you find yourself feeling irritable, impatient, or easily frustrated with colleagues, family, or friends?'
+- id:	18	
+  Category: 'Emotional'	
+  SubCategory: 'Well Being'	 
+  Text: 'How frequently do you feel cynical or detached from your work and people around you?'
+- id:	19	
+  Category: 'Emotional'	
+  SubCategory: 'Well Being'	 
+  Text: 'Do you struggle to maintain a positive outlook, or feel a pervasive sense of hopelessness?'
+- id:	20	
+  Category: 'Emotional'	
+  SubCategory: 'Well Being'	 
+  Text: 'Have you noticed a significant decrease in your enjoyment of activities you used to love?'
+- id:	21	
+  Category: 'Emotional'	
+  SubCategory: 'Well Being'	 Text: 'How often do you feel like you have to force yourself to feel emotions that others expect of you (emotional dissonance)?'
+- id:	22	
+  Category: 'Emotional'	
+  SubCategory: 'Well Being'	 Text: 'In the past month, how often have you felt like you are at your "wits' end"?'
+- id:	23	
+  Category: 'Mental'	
+  SubCategory: 'Cognitive Function and Focus'	 
+  Text: 'How often do you find it difficult to concentrate on tasks?'
+- id:	24	
+  Category: 'Mental'	
+  SubCategory: 'Cognitive Function and Focus'	 
+  Text: 'Do you frequently feel like your mind is "foggy" or that your thoughts are racing?'
+- id:	25	
+  Category: 'Mental'	
+  SubCategory: 'Cognitive Function and Focus'	 
+  Text: 'How often do you forget things (e.g., appointments, details, or steps in a process)?'
+- id:	26	
+  Category: 'Mental'	
+  SubCategory: 'Cognitive Function and Focus'	 
+  Text: 'Do you struggle with decision-making?'
+- id:	27	
+  Category: 'Mental'	
+  SubCategory: 'Cognitive Function and Focus'	 
+  Text: 'How often do you find yourself easily distracted while working or doing other activities?'
+- id:	28	
+  Category: 'Mental'	
+  SubCategory: 'Emotional Regulation and Resilience'	 
+  Text: 'How well do you feel you are able to manage and control your emotions (e.g., anger, sadness, anxiety)?'
+- id:	29	
+  Category: 'Mental'	
+  SubCategory: 'Emotional Regulation and Resilience'	 
+  Text: 'Do small problems or setbacks often feel like major crises?'
+- id:	30	
+  Category: 'Mental'	
+  SubCategory: 'Emotional Regulation and Resilience'	 
+  Text: 'How often do you find yourself engaging in negative self-talk or criticizing yourself harshly?'
+- id:	31	
+  Category: 'Mental'	
+  SubCategory: 'Emotional Regulation and Resilience'	 
+  Text: 'Do you frequently feel anxious or worried for no specific reason?'
+- id:	32	
+  Category: 'Mental'	
+  SubCategory: 'Emotional Regulation and Resilience'	 
+  Text: 'How often do you feel a sense of inner emptiness or numbness?'
+- id:	33	
+  Category: 'Mental'	
+  SubCategory: 'Social and Isolation'	 
+  Text: 'How often do you withdraw socially or avoid interacting with others?'
+- id:	34	
+  Category: 'Mental'	
+  SubCategory: 'Social and Isolation'	 
+  Text: 'Do you feel isolated or lonely, even when surrounded by people?'
+- id:	35	
+  Category: 'Mental'	
+  SubCategory: 'Social and Isolation'	 
+  Text: 'How often do you feel like you are just going through the motions without truly connecting with people or your environment?'
+- id:	36	
+  Category: 'Relational'	
+  SubCategory: 'Intimate/Family '	 
+  Text: 'How often do you feel irritable or easily annoyed by your partner or family members?'
+- id:	37	
+  Category: 'Relational'	
+  SubCategory: 'Intimate/Family '	 
+  Text: 'Do you find yourself emotionally withdrawing or isolating from your loved ones?'
+- id:	38	
+  Category: 'Relational'	
+  SubCategory: 'Intimate/Family '	 
+  Text: 'How frequently do you feel like you have nothing left to give emotionally to your partner or family at the end of the day?'
+- id:	39	
+  Category: 'Relational'	
+  SubCategory: 'Intimate/Family '	 
+  Text: 'Have you noticed a significant decrease in shared enjoyable activities with loved ones?'
+- id:	40	
+  Category: 'Relational'	
+  SubCategory: 'Intimate/Family '
+  Text: 'How often do you feel misunderstood or unappreciated in your home life?'
+- id:	41	
+  Category: 'Relational'	
+  SubCategory: 'Intimate/Family '	
+  Text: 'Do you frequently feel too tired to talk or connect meaningfully with your partner?'
+- id:	42	
+  Category: 'Relational'	
+  SubCategory: 'Professional/Work '	
+  Text: 'How often do you feel cynical or impatient when dealing with people?'
+- id:	43	
+  Category: 'Relational'	
+  SubCategory: 'Professional/Work '	
+  Text: 'Do you find yourself avoiding interactions with colleagues or supervisors?'
+- id:	44	
+  Category: 'Relational'	
+  SubCategory: 'Professional/Work '	
+  Text: 'How often do you feel like you treat the people you serve (clients/patients/students) more like objects or problems than like individuals?'
+- id:	45	
+  Category: 'Relational'	
+  SubCategory: 'Professional/Work '	
+  Text: 'To what extent do you feel supported by your colleagues or team members?'
+- id:	46
+  Category: 'Relational'	
+  SubCategory: 'Professional/Work '	
+  Text: 'Do conflicts or disagreements with co-workers feel more intense or frequent than they used to?'
+- id:	47	
+  Category: 'Spiritual'	
+  SubCategory: 'Relationahip with God'	
+  Text: 'How often do you feel a vital and personal connection with God, separate from your ministry duties?'
+- id:	48	
+  Category: 'Spiritual'	
+  SubCategory: 'Relationahip with God'	
+  Text: 'Do you feel like your personal prayer and devotional time is a source of renewal, or does it feel like another task?'
+- id:	49	
+  Category: 'Spiritual'	
+  SubCategory: 'Relationahip with God'	
+  Text: 'How frequently do you feel like you are just going through the motions during sermons, ceremonies, or leading worship?'
+- id:	50	
+  Category: 'Spiritual'	
+  SubCategory: 'Relationahip with God'	
+  Text: 'Do you feel that God's grace and love are conditional on your ministry accomplishments or performance?'
+- id:	51	
+  Category: 'Spiritual'	
+  SubCategory: 'Relationahip with God'	 
+  Text: 'Have you noticed a decrease in your spiritual passion or zeal over the past year?'
+- id:	52	
+  Category: 'Spiritual'	
+  SubCategory: 'Existential Well-Being'	
+  Text: 'To what extent do you still feel a clear sense of divine calling to your current role?'
+- id:	53	
+  Category: 'Spiritual'	
+  SubCategory: 'Existential Well-Being'	 
+  Text: 'How often do you doubt that your ministry truly makes a difference in the lives of others?'
+- id:	54	
+  Category: 'Spiritual'	
+  SubCategory: 'Existential Well-Being'	 
+  Text: 'Do you find that your sense of worth is tied directly to the attendance, budget, or visible success of the church?'
+- id:	55	
+  Category: 'Spiritual'	
+  SubCategory: 'Existential Well-Being'	 
+  Text: 'How often do you feel that your personal values and spiritual beliefs are in conflict with the demands of your job?'
+- id:	56	
+  Category: 'Spiritual'	
+  SubCategory: 'Existential Well-Being'	 
+  Text: 'Do you feel a deep sense of meaning and direction in your life outside of the church walls?'
+- id:	57	
+  Category: 'Spiritual'	
+  SubCategory: 'Boundaries'	 
+  Text: 'How often do you feel that your personal spiritual "tank" is empty before a Sunday service or major church event?'
+- id:	58	
+  Category: 'Spiritual'	
+  SubCategory: 'Boundaries'	 
+  Text: 'To what extent do you feel you have adequate spiritual mentors or confidantes with whom you can be completely honest about your faith struggles?'
+- id:	59	
+  Category: 'Spiritual'	
+  SubCategory: 'Boundaries'	 
+  Text: 'Do you consistently feel guilty when taking time off for personal rest or spiritual retreat?'
+- id:	60	
+  Category: 'Professional'	
+  SubCategory: 'Work'	 
+  Text: 'How often do you feel that your work efforts are not recognized or appreciated?'
+- id:	61	
+  Category: 'Professional'	
+  SubCategory: 'Work'	 
+  Text: 'To what extent do you feel like you are failing to achieve worthwhile things at work?'
+- id:	62	
+  Category: 'Professional'	
+  SubCategory: 'Work'	 
+  Text: 'How often do you feel a sense of dread when thinking about starting your workday?'
+- id:	63	
+  Category: 'Professional'	
+  SubCategory: 'Work'	 
+  Text: 'Have you noticed a drop in your overall job performance or productivity?'
