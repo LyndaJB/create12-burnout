@@ -16,3 +16,7 @@
 - id: 6
   category: 'emotional'
   text: 'I have fun & engage in restorative activities daily.'
+- id: 7
+  category: 	'Physical'
+  sub_category:	'Sleep and Rest'
+  text:	'How often do you find it difficult to fall asleep or stay asleep (insomnia)?'																							
